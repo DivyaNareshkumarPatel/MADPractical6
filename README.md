@@ -12,6 +12,4 @@ AIM: Create Android Application to demonstrate Frame by frame animation and spla
 
 ## Screenshots
 
-<img src="https://github.com/DivyaNareshkumarPatel/MADPractical6/blob/master/img1.jpeg" alt="Screenshot 1" height="500"/>
-
-<img src="https://github.com/DivyaNareshkumarPatel/MADPractical6/blob/master/img2.jpeg" alt="Screenshot 1" height="500"/>
+<img src="https://github.com/DivyaNareshkumarPatel/MADPractical6/blob/master/img1.jpeg" alt="Screenshot 1" height="500"/><img src="https://github.com/DivyaNareshkumarPatel/MADPractical6/blob/master/img2.jpeg" alt="Screenshot 1" height="500"/>
