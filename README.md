@@ -12,17 +12,6 @@ AIM: Create Android Application to demonstrate Frame by frame animation and spla
 
 ## Screenshots
 
-Here are some screenshots showcasing the app in action:
 <img src="https://github.com/DivyaNareshkumarPatel/MADPractical6/blob/master/img1.jpeg" alt="Screenshot 1" height="500"/>
 
 <img src="https://github.com/DivyaNareshkumarPatel/MADPractical6/blob/master/img2.jpeg" alt="Screenshot 1" height="500"/>
-
-<video src="https://github.com/DivyaNareshkumarPatel/MADPractical6/blob/master/video.mp4" alt="demo video" height="500" />
-
-
-## Technologies Used
-
-- **Kotlin** for Android development.
-- **AnimationDrawable** for Frame-by-Frame Animation.
-- **AnimationUtils** and **Tween Animation** for smooth UI transitions.
-- **onWindowFocusChanged()** to control animation execution.
